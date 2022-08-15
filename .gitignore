@@ -1,0 +1,5 @@
+.vscode
+bin
+obj
+GB_CSharp.csproj
+*.csproj
